@@ -1,2 +1,2 @@
 # Ardunio_radar
-A ardrino based radar system using ultrasonic sensor. Visulization is done using processing app:-https://processing.org/download
+A Arduino based radar system using an ultrasonic sensor. Visualization is done using processing app:-https://processing.org/download
